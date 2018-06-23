@@ -1,4 +1,13 @@
 ## Project: Build a Traffic Sign Recognition Program
+
+pip install tensorflow==1.2.0 --ignore-installed
+
+conda install -c menpo opencv
+
+conda update scikit-learn
+
+wget https://github.com/AakashGupta1993/Test/raw/master/Soda_Bottles.zip
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Overview
